@@ -1,0 +1,38 @@
+{
+  "hash": "654f99e4",
+  "browserHash": "27be7eaf",
+  "optimized": {
+    "react": {
+      "src": "../../../../../../AppData/Local/Yarn/Berry/cache/react-npm-18.2.0-1eae08fee2-10c0.zip/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7bf95d39",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../../../../AppData/Local/Yarn/Berry/cache/react-npm-18.2.0-1eae08fee2-10c0.zip/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "31761081",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../../../../../AppData/Local/Yarn/Berry/cache/axios-npm-1.4.0-4d7ce8ca3e-10c0.zip/node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "e2f9f362",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../../.yarn/__virtual__/react-dom-virtual-a2cf79af2b/4/AppData/Local/Yarn/Berry/cache/react-dom-npm-18.2.0-dd675bca1c-10c0.zip/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "06cab165",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-EO5RY5VU": {
+      "file": "chunk-EO5RY5VU.js"
+    },
+    "chunk-76J2PTFD": {
+      "file": "chunk-76J2PTFD.js"
+    }
+  }
+}
